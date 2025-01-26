@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm boboTheDev</h1>
 <br/>
-<h3 align="center">A full-stack developer and an AWS DevOps. I am a final year, Electrical and Electronic Engineering Major student at Liverpool John Moores University.</h3>
+<h3 align="center">A full-stack developer and an AWS DevOps. I am a master's degree student, Electrical Engineering Major student at Chulalongkorn University.</h3>
 <br/>
 
 - 🔭 I’m currently working on **a project report on Deep Learning A.I and full-scale AWS infrastructure for Plant Health Detection.**
